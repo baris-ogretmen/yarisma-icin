@@ -1,0 +1,2 @@
+# yarisma-icin
+eğitim
